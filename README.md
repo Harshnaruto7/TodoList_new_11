@@ -44,11 +44,8 @@ This is a simple Products App built with Node.js, Express, MongoDB, and a basic 
 
 1. Host the frontend on Vercel or Netlify.
 
-### Backend
 
-1. Host the backend on Railway.
 
 ## Links
 
 - [Hosted Frontend](http://example-frontend-link)
-- [Hosted Backend](http://example-backend-link)
