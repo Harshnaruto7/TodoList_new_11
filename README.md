@@ -1,51 +1,18 @@
 # Products App
 
-This is a simple Products App built with Node.js, Express, MongoDB, and a basic HTML/CSS/JS frontend.
+This application implements a simple Products API using Node.js, Express, and MongoDB, along with a basic frontend using HTML/CSS/JS.
 
 ## Backend Setup
 
-1. Navigate to the `products-api` directory:
-    ```bash
-    cd products-api
-    ```
+### Prerequisites
 
-2. Install the dependencies:
-    ```bash
-    npm install
-    ```
+- Node.js installed
+- MongoDB installed locally or a MongoDB Atlas account
 
-3. Create a `.env` file with the following content:
-    ```
-    MONGO_URI=your_mongodb_connection_string
-    SECRET=your_jwt_secret_key
-    ```
+### Installation
 
-4. Start the server:
-    ```bash
-    npx nodemon server.js
-    ```
+1. **Clone the repository:**
 
-## Frontend Setup
-
-1. Navigate to the `products-frontend` directory:
-    ```bash
-    cd products-frontend
-    ```
-
-2. Open `index.html` in your browser or use a local server like `http-server`:
-    ```bash
-    npm install -g http-server
-    http-server .
-    ```
-
-## Deployment
-
-### Frontend
-
-1. Host the frontend on Vercel or Netlify.
-
-
-
-## Links
-
-- [Hosted Frontend](http://example-frontend-link)
+   ```bash
+   git clone https://github.com/Harshnaruto7/TodoList_new_11.git
+   cd TodoList_new_11
