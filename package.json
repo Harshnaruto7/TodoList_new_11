@@ -2,8 +2,10 @@
   "name": "to_do_list_rablo",
   "version": "1.0.0",
   "description": "this is a todolist",
-  "main": "index.js",
+  "main": "server.cjs",
   "scripts": {
+    "start": "node server.cjs",
+    "dev": "nodemon server.cjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Harsh kumar",
